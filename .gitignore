@@ -1,0 +1,13 @@
+node_modules/
+.idea
+src/wp-admin/*
+src/wp-content/plugins
+src/wp-content/upgrade
+src/wp-content/uploads
+src/wp-content/themes/kalyan/assets
+src/wp-includes/*
+src/.htaccess
+*.log
+references/*
+**/*.txt
+src/wp-content/languages/plugins/*
